@@ -71,6 +71,12 @@ p {
 	text-align: center;
 }
 
+textarea.overview {
+	color: white;
+	text-align: center;
+	height: 100%;
+}
+
 p.overview {
 	text-align: right;
 	float: right;
